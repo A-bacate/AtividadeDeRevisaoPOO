@@ -4,6 +4,7 @@
 // o Defina um ataqueMagico criativo.
 // o Sobrescreva agir() com uma ação temática e custo de energia personalizado.
 
+// 5 de dano, pode atacar 5 vezes
 const Criatura = require('./Criatura.js');
 
 class Idoso extends Criatura {

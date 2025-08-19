@@ -5,6 +5,8 @@ const Gnomo = require(`./classes/Gnomo`)
 const Idoso = require(`./classes/Idoso`)
 const prompt = require("prompt-sync")();
 
+// Esse arquivo é por pura diversão, não tem muito haver com a atividade passada ;)
+
 console.log(`\n\n`);
 
 let personagem;

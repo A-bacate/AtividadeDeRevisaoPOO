@@ -5,6 +5,7 @@
 // o Exiba "[nome] invoca [ataqueMagico]!".
 // o Reduza #energia em 5.
 
+// 20 de dano, pode atacar 2 vezes
 const Criatura = require('./Criatura.js');
 
 class Gnomo extends Criatura {

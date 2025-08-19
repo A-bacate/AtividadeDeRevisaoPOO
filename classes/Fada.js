@@ -5,6 +5,7 @@
 // o Exiba "[nome] ataca com [ataqueMagico]!".
 // o Reduza #energia em 15.
 
+// 10 de dano, pode atacar 3 vezes
 const Criatura = require('./Criatura.js');
 
 class Fada extends Criatura {

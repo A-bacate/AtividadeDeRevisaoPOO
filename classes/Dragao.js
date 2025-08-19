@@ -5,6 +5,7 @@
 // o Exiba "[nome] lança [ataqueMagico]!".
 // o Reduza #energia em 30.
 
+// 40 de dano, pode atacar 1 vez
 const Criatura = require('./Criatura.js');
 
 class Dragao extends Criatura {
