@@ -3,6 +3,7 @@ const Fada = require(`./classes/Fada`)
 const Dragao = require(`./classes/Dragao`)
 const Gnomo = require(`./classes/Gnomo`)
 const Idoso = require(`./classes/Idoso`)
+const Formiga = require(`./classes/Formiga`)
 const prompt = require("prompt-sync")();
 
 // Esse arquivo é por pura diversão, não tem muito haver com a atividade passada ;)
@@ -46,9 +47,7 @@ switch (escolha) {
 personagem.setEnergia(100);
 //
 
-// formiga = Pisada de mil Deuses;
-// Sopro do submundo
-// 200
+
 
 // ação
 let desistir = false;
